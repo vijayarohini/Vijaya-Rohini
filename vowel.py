@@ -1,5 +1,6 @@
-ch=input("")
-if(ch=='a'  or ch=='e'  or ch=='i'  or ch=='o'  or ch=='u'):
-    print(ch,"is a vowel")
+x=('a' or 'e' or 'i'or 'o' or 'u')
+y='f'
+if(x!=0):
+    print("invalid")
 else:
-    print(ch,"is a consonant")    
+    print("consonant")
