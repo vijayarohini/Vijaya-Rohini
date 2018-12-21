@@ -3,6 +3,6 @@ def new(number,loop):
         return number
     else:
         return number*new(number,loop-1)
-a=new(6,6)
+a=new(5,5)
 print a
 print "Hello"*a
