@@ -1,3 +1,4 @@
-n=int(input(""))
-k=int(input(""))
-print(pow(n,k))
+m=3
+n=3
+m=m**n
+print m
